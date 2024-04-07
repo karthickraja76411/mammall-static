@@ -1,0 +1,340 @@
+{
+    "nav": {
+        "title": "Mammall",
+        "links": [
+            {
+                "id": 1,
+                "name": "Home",
+                "href": "/"
+            },
+            {
+                "id": 2,
+                "name": "About us",
+                "href": "/aboutus"
+            },
+            {
+                "id": 3,
+                "name": "Portfolio",
+                "href": "/portfolio"
+            },
+            {
+                "id": 4,
+                "name": "Services & solutions",
+                "href": "/services"
+            },
+            {
+                "id": 5,
+                "name": "Mammall Centers",
+                "href": "/mammall-center"
+            },
+            {
+                "id": 6,
+                "name": "Careers",
+                "href": "/careers"
+            },
+            {
+                "id": 7,
+                "name": "Contact Us",
+                "href": "/"
+            }
+        ]
+    },
+    "/": {
+        "mainBanner": {
+            "titleStart": "End to end solution for",
+            "titleEnd": "diary sector",
+            "subText": "We are at the forefront of integrating AI-enabled technologies to redefine the livestock trading, valuation and supply chain and enhance production efficiency in the fodder cultivation.",
+            "btn": "Get the app"
+        },
+        "missionVission": {
+            "label": "Our Mission & Vision",
+            "title": "Empowering the Agriculture Community Through Innovative Solutions",
+            "subTitle": "Our vision",
+            "text": "Empower farmers in increasing their earnings per cow. Expand the footprint of green energy to agriculture community."
+        },
+        "serviceSolution": {
+            "label": "Services & Solutions",
+            "title": "Pioneering Growth: Unleash Possibilities with Our Innovative Services",
+            "details": [
+                {
+                    "id": 1,
+                    "title": "Individual Farmers",
+                    "text": "The Mammall Farmer App is a comprehensive platform that offers a range of services to farmers. These services include regular alerts about livestock health, reminders for fodder crop management and etc.,",
+                    "img": "individual.svg",
+                    "hrefLabel": "Learn more",
+                    "href": "#"
+                },
+                {
+                    "id": 2,
+                    "title": "Enterprise Farms",
+                    "text": "Feed & Fodder accounts for 80% of the operational costs of enterprise farms. One of the biggest challenges for the dairy farming community is sourcing inputs at affordable prices consistently throughout the year.",
+                    "img": "enterprise.svg",
+                    "hrefLabel": "Learn more",
+                    "href": "#"
+                },
+                {
+                    "id": 3,
+                    "title": "Download Mammall app",
+                    "text": "Sell your livestock and fodder at right price , Get quick access to all your dairy farms needs",
+                    "img": "moibile-download.svg",
+                    "hrefLabel": "Download app",
+                    "href": "#"
+                }
+            ]
+        },
+        "works": {
+            "label": "How It Works",
+            "title": "Unlock the full potential of our platform with easy steps for an enhanced experience"
+        },
+        "digitalSolutions": {
+            "label": "Digital Solutions",
+            "title": "Revolutionizing Cattle Management: Cutting-Edge Digital Solutions for Success",
+            "details": [
+                {
+                    "id": 1,
+                    "img": "soil.svg",
+                    "title": "Soil testing",
+                    "text": "Soil testing is a crucial practice in agriculture that involves analyzing the composition and nutrient levels of the soil to make informed decisions about crop management."
+                },
+                {
+                    "id": 2,
+                    "img": "planner.svg",
+                    "title": "Fodder Crop Planner",
+                    "text": "A Fodder Crop Planner is an all-inclusive tool  created to optimize and improve the management of fodder cultivation.  "
+                },
+                {
+                    "id": 3,
+                    "img": "weather.svg",
+                    "title": "Weather Alerts",
+                    "text": "Weather alerts in agriculture play a pivotal role in  empowering farmers with real-time information about weather  conditions."
+                },
+                {
+                    "id": 4,
+                    "img": "geo.svg",
+                    "title": "Geo Tag farm",
+                    "text": "Mammall Geo Tag Farm feature is a powerful tool  designed to enhance farm management and efficiency."
+                },
+                {
+                    "id": 5,
+                    "img": "hurt.svg",
+                    "title": "Cattle Rate Calculator",
+                    "text": "Say goodbye to manual calculations and  guesswork - with Mammall, pricing cattle has never been easier or more  accurate."
+                },
+                {
+                    "id": 6,
+                    "img": "insurance.svg",
+                    "title": "Cattle & Crop Insurance",
+                    "text": "Cattle & Crop insurance plays a crucial role in  agriculture by providing essential risk management for farmers and  livestock owners."
+                },
+                {
+                    "id": 7,
+                    "img": "connect.svg",
+                    "title": "Connect with Doctors",
+                    "text": "Connecting with experts is  a crucial step for farmers and livestock owners to ensure the health and  well-being of their livestock."
+                },
+                {
+                    "id": 8,
+                    "img": "nutrition.svg",
+                    "title": "Nutrition Calculator",
+                    "text": "The digital tool provides dairy farmers with a  thorough assessment of whether their cattle are receiving adequate  nutrition based on milk yield."
+                }
+            ]
+        },
+        "businessPortfolio": {
+            "label": "Our Business Portfolio",
+            "title": "We have three core initiatives that revolutionize different aspects of the dairy sector",
+            "details": [
+                {
+                    "id": 1,
+                    "img": "digital.svg",
+                    "title": "Digital Marketplace",
+                    "text": "Mammall(s) Digital Marketplace serves as a transformative force, empowering farmers with a cutting-edge platform for livestock trading and supplies. This innovative approach redefines how farmers interact with buyers, facilitating seamless transactions and ensuring transparency."
+                },
+                {
+                    "id": 2,
+                    "img": "fodder.svg",
+                    "title": "Fodder Supply Chain",
+                    "text": "Mammall offers a comprehensive one-stop solution for all fodder needs, encompassing the entire journey from seed to staple. Ours Fodder Supply Chain is a pioneering initiative dedicated to reshaping the way fodder is sourced, distributed, and utilized in livestock farming."
+                },
+                {
+                    "id": 3,
+                    "img": "energy.svg",
+                    "title": "Green Energy",
+                    "text": "Mammall(s) Green Energy initiative demonstrates our dedication to transforming cattle farming into a circular economy. By incorporating renewable energy technologies into dairy production, we are leading the way in promoting the “Cash for Dung” program."
+                }
+            ]
+        }
+    },
+    "/aboutus": {
+        "mainHeader": {
+            "titleStart": "We stands out as a pioneering company in the",
+            "titleEnd": "Dairy-Tech sector",
+            "img": "mainBanner.svg",
+            "text1": "Mammall Technologies™ offering extensive solutions and services to the dairy  farming community in India. Our commitment to integrating AI  technologies is transforming livestock and fodder trading, livestock  valuation, livestock and fodder crop management, as well as  orchestrating the fodder supply chain and guiding farmers to leverage  the advantages of green energy",
+            "text2": "Our commitment includes providing consultation services in multiple  local languages, encompassing more than 45 cattle breeds, 19 buffalo  breeds, 11 goat breeds, 13 sheep breeds, and 12 types of fodder crops.  Through the use of our AI-driven tools and tailored strategies, farmers  can unlock the genetic capabilities of their livestock and optimize their  earnings. ",
+            "text3": "Established by siblings who are farmers themselves and have observed  the difficulties encountered by their family and neighbors, Mammall  Technologies is a self-funded startup dedicated to improving the  economic viability of the dairy farming sector."
+        },
+        "ourValues": {
+            "label": "Our Values",
+            "title": "We embrace change as an opportunity for growth and evolution",
+            "banner1": {
+                "id": 1,
+                "title": "Farmers First",
+                "titleEnd": "",
+                "text": "The farmer lies at the center of all our endeavors. We are fully committed  to comprehending their requirements, obstacles, and ambitions,  guaranteeing that our solutions empower farmers and contribute to their  overall welfare. At Mammall Technologies™, \"Farmers First\" is not merely  a fundamental principle; it is the essence of our mission. We remain  resolute in our dedication to giving priority to and advocating for the  needs, aspirations, and well-being of farmers in every solution we  develop. By placing farmers at the forefront of our innovations, we foster  a sustainable and prosperous future for agriculture, ensuring that their  triumph becomes the ultimate measure of our own.",
+                "img": "/farmer.svg"
+            },
+            "banner2": {
+                "id": 2,
+                "title": "Respect",
+                "text": "Respect is an integral part of the ethos and functioning of Mammall  Technologies™. We prioritize the honor and value of each person,  cultivating an environment that promotes inclusivity and collaboration.  We acknowledge and appreciate different viewpoints, treating every  team member, farmer, and stakeholder with equity, politeness, and  thoughtfulness. Respect is not merely a fundamental principle for us; it  serves as the bedrock for establishing meaningful connections and  achieving shared accomplishments.",
+                "img": "/respect.svg"
+            },
+            "banner3": {
+                "id": 3,
+                "title": "Sustainable Innovation",
+                "titleEnd": "",
+                "text": "Mammall Technologies™ firmly upholds Sustainable Innovation as a  fundamental principle. Our dedication lies in spearheading solutions that not only propel technological progress but also make significant  contributions to environmental, social, and economic sustainability. By consistently exploring and fostering creativity, we endeavor to create  and execute innovations that have a positive and enduring influence on  the dairy farming industry. Our ultimate goal is to establish a harmonious  equilibrium between advancement and the welfare of our planet and its  inhabitants.",
+                "img": "/innovation.svg"
+            },
+            "banner4": {
+                "id": 4,
+                "title": "Integrity",
+                "titleEnd": "",
+                "text": "At Mammall Technologies™, we prioritize \"Integrity\" as the foundation of  our identity. Upholding the highest ethical standards is of utmost  importance to us, as we conduct our business with honesty,  transparency, and accountability. Our dedication to integrity is not  limited to mere words, but is evident in every single action we undertake.  We firmly believe that trust is earned through unwavering integrity, and  it acts as the fundamental support in our connections with our team,  farmers, and partners. Integrity is not merely a value we embrace; it is  the very essence that defines us and guides our operational procedures.",
+                "img": "/integrity.svg"
+            },
+            "banner5": {
+                "id": 5,
+                "title": "Collaboration",
+                "titleEnd": "",
+                "text": "Mammall Technologies™ upholds the principle of \"Collaboration as\" a  cornerstone of our collective achievements. We firmly believe in the  potential of synergy, where a multitude of talents and ideas come  together to generate ground breaking solutions. Through partnerships  with farmers, stakeholders, and our dedicated team, we leverage  collective intelligence to tackle obstacles and foster positive  transformation. By cultivating an atmosphere of transparent  communication and teamwork, we enhance our influence on the  agricultural landscape. Collaboration is not merely a core value, but  rather the dynamic impetus propelling our joint pursuit of sustainable  growth and prosperity.",
+                "img": "/collaboration.svg"
+            }
+        }
+    },
+    "/portfolio": {
+        "ourBanners": {
+            "title": "We have three core initiatives that revolutionize different aspects of the  dairy sector",
+            "banner1": {
+                "id": 1,
+                "title": "Digital Marketplace: Empowering Livestock & Fodder Trade",
+                "text": "Mammall's Digital Marketplace serves as a transformative force,  empowering farmers with a cutting-edge platform for livestock trading  and supplies. This innovative approach redefines how farmers interact  with buyers, facilitating seamless transactions and ensuring  transparency. The platform primarily focuses on fair pricing, driving  efficiency throughout the entire dairy value chain. By leveraging digital  technologies, Mammall revolutionizes the traditional agricultural trading  landscape, creating a dynamic marketplace that enhances accessibility  and provides equitable opportunities for farmers and buyers. With the  Mammall App, farmers have convenient access to livestock and fodder  choices that are more suitable for them at their fingertips.",
+                "img": "digital.svg"
+            },
+            "banner2": {
+                "id": 2,
+                "title": "Fodder Supply Chain: From Seed to Staple (Revolutionizing Fodder  Cultivation)",
+                "text": "Mammall offers a comprehensive one-stop solution for all fodder needs,  encompassing the entire journey from seed to staple. Ours Fodder Supply  Chain is a pioneering initiative dedicated to reshaping the way fodder is  sourced, distributed, and utilized in livestock farming. Committed to  ensuring the availability of high-quality fodder, this transformative  approach goes beyond conventional methods. By optimizing the fodder  supply process, Mammall contributes to enhancing overall livestock  health and productivity. Mammall Technologies™ ensures the provision of  high-quality inputs for fodder cultivation, resulting in improved foliage  weight. This makes fodder cultivation a viable alternative crop for farmers  to depend on. By delivering their produce to the nearest Mammall Centre,  farmers can conveniently sell their fodder without the need to travel long  distances.",
+                "img": "fodder.svg"
+            },
+            "banner3": {
+                "id": 3,
+                "title": "Green Energy: Sustainably make “Cattle a Circular Economy”",
+                "text": "Mammall's Green Energy initiative demonstrates our dedication to  transforming cattle farming into a circular economy. By incorporating  renewable energy technologies into dairy production, we are leading the  way in promoting the “Cash for Dung” program. This endeavor not only  boosts farmers' profits but also enables the dairy farming community to  play a role in creating a cleaner and more sustainable future. Mammall's  commitment to sustainable energy reflects a comprehensive strategy for  dairy farming, in line with our goal of enhancing farmers' income per cow,  while also guaranteeing the long-term viability and prosperity of both  farmers and the environment.",
+                "img": "economy.svg"
+            }
+        }
+    },
+    "/services": {
+        "ourBanners": {
+            "title": "Pioneering Growth: Unleash Possibilities with Our Innovative Services",
+            "banner1": {
+                "id": 1,
+                "title": "Individual Farmers",
+                "text": "The Mammall Farmer App is a comprehensive platform that offers a  range of services to farmers. These services include regular alerts about  livestock health, reminders for fodder crop management, veterinary  voice calls in regional languages, advisories for cattle care, cattle  nutrition, weather reports, and local livestock rates. With this app,  farmers can easily buy and sell livestock and fodder crops directly.  Additionally, they can access personalized consultation services based  on real-time information, all at their fingertips.",
+                "img": "individual.svg"
+            },
+            "banner2": {
+                "id": 2,
+                "title": "Enterprise Farms",
+                "text": "Feed & Fodder accounts for 80% of the operational costs of enterprise  farms. One of the biggest challenges for the dairy farming community is  sourcing inputs at affordable prices consistently throughout the year.  Mammall Technologies™ is leading the way in meeting the primary  requirements of dairy farms through the utilization of AI and machine  learning technologies. In addition to our various digital services, dairy  farms can also opt for our top-notch supply chain orchestration to  subscribe to fodder and farm inputs. We have developed systems that  can analyze various parameters affecting fodder cultivation and provide  a forecasting mechanism. This enables our institutional buyers to better  plan their operations. The Mammall Enterprise online portal enables dairy  farms to easily track transactions, view procurement pipeline, and place  online orders. Furthermore, we have plans to introduce raw milk trading  through our platform in the near future.",
+                "img": "enterprise.svg"
+            }
+        }
+    },
+    "/mammall-center": {
+        "ourBanners": {
+            "banner1": {
+                "title": "Advice",
+                "subTitle": "Customized advisory services for fodder & livestock in regional  languages.",
+                "text": "Mammall Technologies™ comprehends the obstacles and possibilities  associated with agriculture. Our Farmer Advisory Service offers  specialized guidance, knowledge, and customized suggestions to  enhance your farming techniques. We offer Expert consultation,  Livestock and Feed analysis, Feed/ Fodder Strategy, Livestock and  Fodder Disease control, and Technology incorporation.",
+                "img": "advice.svg"
+            },
+            "banner2": {
+                "title": "Associate",
+                "subTitle": "Phygital collaboration with farmers throughout the entire process,  FROM SEED TO STAPLE, as a unified team, and make profit.",
+                "text": "At Mammall Technologies™, we understand the importance of community  and shared knowledge in advancing dairy farming. We are dedicated to  fostering collaboration, exchanging knowledge, empowering farmers,  skill enhancement and building a supportive network to elevate dairy  excellence.",
+                "img": "associate.svg"
+            },
+            "banner3": {
+                "title": "Assess",
+                "subTitle": "Tech based assessment for livestock management and practices of  fodder cultivation ascertain their characteristics and standards in  order to pursue exceptional outcomes.",
+                "text": "Mammall Technologies™ has developed systematic approaches to  evaluate, enhance, and upgrade the capabilities of dairy farmers in  managing livestock and fodder cultivation. Our company is committed to  providing farmers with a comprehensive assessment of their skills,  techniques, and growth prospects, fostering continuous advancement in  the dairy farming industry.",
+                "img": "assess.svg"
+            },
+            "banner4": {
+                "title": "Appraise",
+                "subTitle": "AI driven appraisal report for farmers community on livestock/  fodder perforce, productivity for continual improvement and  sustainability.",
+                "text": "The Mammall™ AI Technology is designed to provide farmers with real time updates, market analysis, and customized data to enhance their  decision-making capabilities. Our aim with this innovative tool is to  empower farmers with the latest agricultural trends, weather  predictions, and professional advice, helping them to stay competitive in  the ever-evolving field of farming.",
+                "img": "appraise.svg"
+            },
+            "banner5": {
+                "title": "Access",
+                "subTitle": "Enable farmers to sell livestock and fodder directly to buyers and  Mammal Centers, thereby enhancing their income.",
+                "text": "The Mammall Technologies™ provides an opportunity for farmers to  access the market, representing a groundbreaking initiative aimed at  empowering them through improved connections to the market, fair  pricing, and greater opportunities in livestock and fodder farming. Our  primary goal is to establish channels that support farmers in flourishing  within a competitive market landscape, all while ensuring the  sustainability of their agricultural methods.",
+                "img": "access.svg"
+            }
+        }
+    },
+    "/careers": {
+        "mainHeader": {
+            "title": "What are the reasons to choose Mammall as your workplace?",
+            "subTitle": "Discover a fulfilling and empowering professional prospect, by making a  substantial difference to both your own growth and the agricultural  community.",
+            "banners": [
+                {
+                    "id": 1,
+                    "title": "Innovative Environment",
+                    "text": "Mammall Technologies cultivates an  environment that encourages innovation and dynamism, empowering you  to think outside the box and create groundbreaking solutions for  challenges in agriculture and dairy.",
+                    "img": "environment.svg"
+                },
+                {
+                    "id": 2,
+                    "title": "Impactful Work",
+                    "text": "At Mammall, you can engage on impactful projects that  directly benefit the agriculture and dairy industries, aiding farmers in  enhancing their productivity, efficiency, and overall well-being.",
+                    "img": "work.svg"
+                },
+                {
+                    "id": 3,
+                    "title": "Collaborative Culture",
+                    "text": "With a focus on collaboration, Mammall fosters a  culture where teamwork and knowledge exchange are highly regarded.  You have the opportunity to work alongside talented individuals from  various backgrounds, enriching their skills and professional development.",
+                    "img": "culture.svg"
+                },
+                {
+                    "id": 4,
+                    "title": "Career Growth",
+                    "text": "Mammall offers numerous avenues for career growth and  progression, whether through training initiatives, mentorship programs,  or engaging projects. You receive the necessary support to excel and  advance in their careers.",
+                    "img": "growth.svg"
+                },
+                {
+                    "id": 5,
+                    "title": "Positive Impact",
+                    "text": "By joining Mammall, you become part of a company  dedicated to creating a positive impact on society and the environment.  Mammall's commitment to sustainable agriculture practices and  innovative solutions aligns with the global movement towards a more  sustainable future.",
+                    "img": "impact.svg"
+                },
+                {
+                    "id": 6,
+                    "title": "Inclusive Culture",
+                    "text": "Embracing diversity and inclusion, Mammall nurtures  an inclusive culture where every individual is respected, valued, and  empowered to contribute their unique perspectives and ideas.",
+                    "img": "inclusive.svg"
+                },
+                {
+                    "id": 7,
+                    "title": "Opportunity for Learning",
+                    "text": "Mammall promotes a culture of continuous  learning and development, providing you with access to training  programs, workshops, and resources to enhance their skills and stay  abreast of the latest advancements in their field.",
+                    "img": "opportunity.svg"
+                }
+            ]
+        }
+    }
+}
