@@ -5,7 +5,7 @@ import BackToTop from "~/components/BackToTop";
 import Loader from "~/components/Loader";
 import { useRouter } from "next/router";
 // contents
-import contentEN from "~/webContent/contentEN";
+import contentEN from "~/webContent/contentEn";
 import contentTA from "~/webContent/contentTA";
 import Header from "~/components/Header";
 import Footer from "~/components/Footer";
